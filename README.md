@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing data engineering pipelines and exploring advanced cloud solutions using Azure and Databricks.<br>👯 I’m looking to collaborate on data engineering projects involving PySpark, ETL design, and cloud data platforms.<br>🤝 I’m looking for help with mastering advanced data modeling techniques and optimizing data workflows.<br>🌱 I’m currently learning Microsoft Fabric and deepening my expertise in distributed data processing.<br>💬 Ask me about data engineering best practices, PySpark, and Azure data services.<br>⚡ Fun fact: I enjoy solving data puzzles and finding creative ways to improve data performance!
+💬 Ask me about data engineering best practices, PySpark tricks, and leveraging Azure data services — backed by my **3.5+ years of hands-on experience.** <br/>
+🔭 I’m currently enhancing **data engineering pipelines** and exploring advanced cloud solutions with **Azure and Databricks**.<br/>
+👯 I’m eager to collaborate on data engineering projects involving **PySpark**, **ETL** **design**, and**cloud data platforms**.<br/>
+🤝 I'm seeking insights and guidance to master advanced **data modeling techniques** and **optimize data workflows**.<br/>
+🌱 I’m diving deeper into Microsoft Fabric and expanding my expertise in distributed data processing.<br/>
+⚡ Fun fact: I love solving data puzzles and finding creative ways to boost data performance!<br/>
+<br/>
+🚀 Always open to new ideas, challenges, and exciting collaborations in the data engineering space!<br/>
 
 
 ## 🌐 Socials:
